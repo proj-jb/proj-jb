@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hello, I'm JB
 
-<!--
-**proj-jb/proj-jb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a student that's currently enrolled and studying for a bachelors degree in cybersecurity. I've had an interest in computers since I was in elementary school, however more as a hobby than a career; It wasn't until October of 2024 did I decide to start pursuing and studying for a career in IT. 
 
-Here are some ideas to get you started:
+## Objective
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My hobby in computers has led me to develop a passion for cybersecurity, and I am now eager to transition into this field. 
+
+## Skills
+
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| Network traffic analysis, wireshark, packet filtering         | <a href="https://medium.com/@ssh-j/network-traffic-analysis-with-wireshark-15d77399c696">Wireshark Traffic Analysis</a>|
+|   Firewall configuration and management, Network security monitoring        | <a href="https://medium.com/@ssh-j/installing-configuring-a-firewall-using-ufw-on-ubuntu-0160b65d9029"> Installing & Configuring a Firewall using UFW on Ubuntu</a>|
+| SOAR, EDR, Slack, Tines, LimaCharlie     | <a href="https://medium.com/@ssh-j/soar-edr-project-a73cbe6d6585"> SOAR & EDR Project</a>|
+
+
+
+## Certifications
+Currently working towards the Network and Security+
+<div>
+<img src="https://img.shields.io/badge/-A%2B-EA1D25?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-Linux%20Essentials-2C3E50?&style=for-the-badge&logo=Linux&logoColor=white" />
+
+
+</div>
+
+## Projects
+- Network Traffic Analysis with Wireshark
+- SOC Automation Project
+- Firewall configuration
+- VPN Configuration and Management with OpenVPN (Write-up in progress)
+- Helpdesk/Ticketing/Active Directory Lab (Write-up in progress)
+- Homelab (Write-up in progress)
