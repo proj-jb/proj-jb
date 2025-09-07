@@ -1,10 +1,10 @@
 # Hello, I'm JB
 
-I am a student that's currently enrolled and studying for a bachelors degree in cybersecurity. I've had an interest in computers since I was in elementary school, however more as a hobby than a career; It wasn't until October of 2024 did I decide to start pursuing and studying for a career in IT. 
+I am a student that's currently enrolled and studying for a bachelors degree in cybersecurity. I've had an interest in computers since I was young, however I never really thought about it as a career; It wasn't until October of 2024 did I decide to start pursuing and studying for a career in IT. 
 
 ## Objective
 
-My hobby in computers has led me to develop a passion for cybersecurity, and I am now eager to transition into this field. 
+My hobby in computers has led me to develop a passion for cybersecurity, and I am now eager to transition into this field.
 
 ## Skills
 
@@ -32,3 +32,4 @@ Currently working towards the Network and Security+
 - VPN Configuration and Management with OpenVPN (Write-up in progress)
 - Helpdesk/Ticketing/Active Directory Lab (Write-up in progress)
 - Homelab (Write-up in progress)
+- OverTheWire (Bandit)
