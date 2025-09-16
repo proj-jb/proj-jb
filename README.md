@@ -33,3 +33,4 @@ Currently working towards the Network and Security+
 - Helpdesk/Ticketing/Active Directory Lab (Write-up in progress)
 - Homelab (Write-up in progress)
 - OverTheWire (Bandit)
+- TryHackMe <img src="https://tryhackme-badges.s3.amazonaws.com/n0t3vil.png" alt="Your Image Badge" />
