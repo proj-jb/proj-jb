@@ -17,8 +17,9 @@ My hobby in computers has led me to develop a passion for cybersecurity, and I a
 
 
 ## Certifications
-Currently working towards the Network and Security+
+Currently working towards the Security+
 <div>
+<img src="https://img.shields.io/badge/-Network%2B-EA1D25?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-A%2B-EA1D25?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Linux%20Essentials-2C3E50?&style=for-the-badge&logo=Linux&logoColor=white" />
 
