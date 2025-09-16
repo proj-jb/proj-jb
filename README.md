@@ -1,10 +1,10 @@
 # Hello, I'm JB
 
-I am a student that's currently enrolled and studying for a bachelors degree in cybersecurity. I've had an interest in computers since I was young, however I never really thought about it as a career; It wasn't until October of 2024 did I decide to start pursuing and studying for a career in IT. 
+I am a student at Western Governors University and I'm studying for a bachelors degree in cybersecurity. I've had an interest in computers since I was young, however I never really thought about it as a career; It wasn't until October of 2024 did I decide to start pursuing and studying for a career in IT. Since then I have been very focused on pivoting over to IT, and having had some years of hobbyist experience ranging from troubleshooting my own PC issues, as well as friends to completing labs in both TryHackMe and HackTheBox. 
 
 ## Objective
 
-My hobby in computers has led me to develop a passion for cybersecurity, and I am now eager to transition into this field.
+My hobby in computers has led me to develop a passion for cybersecurity, and I am now eager to transition into this field and graduate by the summer of 2026. 
 
 ## Skills
 
