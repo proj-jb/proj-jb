@@ -17,7 +17,10 @@ My hobby in computers has led me to develop a passion for cybersecurity, and I a
 
 
 ## Certifications
-Currently working towards the Security+
+
+<a href="https://www.credly.com/users/johnael-benitez">My Credly</a>
+
+Currently working towards the Security+ 
 <div>
 <img src="https://img.shields.io/badge/-Network%2B-EA1D25?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-A%2B-EA1D25?&style=for-the-badge&logo=CompTIA&logoColor=white" />
