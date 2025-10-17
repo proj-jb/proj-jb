@@ -20,12 +20,12 @@ My hobby in computers has led me to develop a passion for cybersecurity, and I a
 
 <a href="https://www.credly.com/users/johnael-benitez">My Credly</a>
 
-Currently working towards the Security+ 
+Currently working towards the Pentest+ 
 <div>
 <img src="https://img.shields.io/badge/-Network%2B-EA1D25?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-A%2B-EA1D25?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Linux%20Essentials-2C3E50?&style=for-the-badge&logo=Linux&logoColor=white" />
-
+<img src="https://img.shields.io/badge/-Security%2B-EA1D25?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 
 </div>
 
