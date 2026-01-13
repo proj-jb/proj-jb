@@ -42,4 +42,4 @@ Currently working towards the Pentest+
 - Helpdesk/Ticketing/Active Directory Lab 
 - Homelab
 - OverTheWire (Bandit)
-- TryHackMe <img src="https://tryhackme-badges.s3.amazonaws.com/n0t3vil.png" alt="Your Image Badge" />
+- TryHackMe <img src="https://tryhackme-badges.s3.amazonaws.com/jblol.png" alt="Your Image Badge" />
